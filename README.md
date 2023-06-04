@@ -64,12 +64,7 @@ O programa utiliza o detector de marcos faciais do dlib para determinar a posiç
 SOUKUPOVA, Tereza; CECH, Jan. [Real-time eye blink detection using facial landmarks](https://vision.fe.uni-lj.si/cvww2016/proceedings/papers/05.pdf). In: 21st computer vision winter workshop, Rimske Toplice, Slovenia. 2016.
 
 
-
-
-
-
-
-**Sobre mim:**
+### Sobre mim:
 * [LinkedIn](https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9zar-de-paula-0b64b8226/)
 * [Medium](https://medium.com/@jcp.paula17)
 * [Portfólio](https://github.com/jcppaula/Portfolio)
