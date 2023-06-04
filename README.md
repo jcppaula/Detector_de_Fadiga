@@ -5,7 +5,7 @@
 Este é um projeto de Detector de Fadiga desenvolvido para a Especialização em Visão Computacional. O programa utiliza técnicas de Visão Computacional e Aprendizado de Máquina para detectar sinais de fadiga (como fechamento prolongado dos olhos) em um fluxo de vídeo em tempo real.
 
 <p align="center">
-  <img src="Detector de Fadiga.gif" style="width: 300px; height: 200px;" >
+  <img src="Detector de Fadiga.gif" style="width: 500px; height: 300px;" >
 </p>
 
 ## Estrutura do Projeto
